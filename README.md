@@ -11,6 +11,7 @@ SVC ALGORITHM
 4. Test Accuarcy:  0.9666666666666667
 5. Test Accuarcy:  1.0
 SVC Mean Accuarcy: 0.9833333333333334
+
 Desicion Tree Algorithm
 1. Test Accuarcy:  0.9666666666666667
 2. Test Accuarcy:  0.9166666666666666
@@ -18,6 +19,7 @@ Desicion Tree Algorithm
 4. Test Accuarcy:  0.8
 5. Test Accuarcy:  0.8666666666666667
 Desicion Tree Test Mean Accuarcy: 0.8933333333333333
+
 KNN ALGORİTHM
 1. Test Accuarcy:  0.65
 2. Test Accuarcy:  0.7333333333333333
