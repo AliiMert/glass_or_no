@@ -1,4 +1,4 @@
-#There are 350 with glass photos and 350 without glass photos. 
+#There are 150 with glass photos and 150 without glass photos. 
 #The machine was trained by dividing it into 5 parts with k fold cross validation.
 #There are 3 different algorithm and accurarcy scores.
 
